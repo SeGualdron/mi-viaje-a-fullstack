@@ -4,3 +4,22 @@ Con solo unas horas de empezar mi nuevo camino como programador o como sea lo qu
 Veremos sí me va tan  bien programando como jugando HAHA.
 
 11:21pm 08-09-26
+
+
+
+# [GIT & GIT HUB]
+
+**Fecha:** 2026-08-09
+**Contexto:** No lograba conectar el Git correctamente,Errores con las carpetas.
+
+## Síntoma
+Lo primero que ví es que no sabía qué estaba pasando.Eran mis primeras horas intentando instalar git & github
+
+## Causa
+Aparte de qué estoy empezando de 0. me estaba frustrando y lograba dar con la solución para la instalación de mi primer repositorio
+
+## Solución
+Fallar, intentar volver a intentar y no darme por vencido
+
+## Cómo lo reconozco la próxima vez
+Se que seguirá pasando por qué solo así se aprende
