@@ -1,22 +1,23 @@
- # Día N — YYYY-MM-DD
+ #  Día 0— 2026-08-09
 
 ## ⏱️ Tiempo estudiado
-X horas
+4:30
 
 ## 📚 Qué estudié / practiqué
-- Tema 1
-- Tema 2
+-   GIT&GITHUB
+-   creación de repositorio
+-   creación de canales(bitacora/problemas/ejercicios)
 
 ## 🐛 Problema(s) que encontré
-**Problema:** Descripción breve del error o duda.
-**Contexto:** Qué estaba intentando hacer.
+**Problema:** no encontraba la forma de hacer funcionar mi repositario con git
+**Contexto:** estaba intentando conectar git con mi repositorio pero no lo lograba
 
 ## ✅ Cómo lo resolví
-Explicación de la solución (o "sigue pendiente" si no lo resolviste).
+Respiré tuve paciencia, mire videos, investigué y pedi alguna ayuda de IA que al final me sirvio
 
 ## 💡 Algo que aprendí y no quiero olvidar
-Una idea clave del día, en tus propias palabras.
+no darme por vencido si sigo estudiando día a día las cosas van a salir bien
 
-## 🎯 Plan para mañana
-- [ ] Tarea 1
-- [ ] Tarea 2
+## 🎯 Plan para hoy
+-   Modificar bitacora y problemas resueltos sin ayuda.
+-   Organizar mi repositorio sin ayuda
