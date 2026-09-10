@@ -19,4 +19,4 @@ que programar tiene mucho más trabajo que solo teclar codigo
 
 ## 🎯 Plan para mañana
 - encontrar videos para contextualizar más sobre programación
-``` TE AMO MI AMOR BRIANA 
+
